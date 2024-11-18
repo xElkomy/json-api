@@ -1,4 +1,4 @@
-FROM php:7.4.29-cli
+FROM php:7.4.33-cli
 
 ARG DEBIAN_FRONTEND=noninteractive
 
